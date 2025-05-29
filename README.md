@@ -1,2 +1,2 @@
 # platformer
-Platformer game, similiar to mario
+Platformer game, similiar to Mario
